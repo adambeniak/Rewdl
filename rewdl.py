@@ -205,4 +205,4 @@ async def creators(ctx, *, member : discord.Member  = None):
     embed.add_field(name="Support with Script and Function", value="@lepax_#2196")
     
     await client.say(embed = embed)                     
-client.run("NTA5MDgwODE3MDAwMjUxNDAy.DtnN3A.fYAvZfe14CA2NaMvp3iG2Mig1OU")
+client.run("TOKEN")
